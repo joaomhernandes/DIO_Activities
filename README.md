@@ -1,4 +1,4 @@
-<img alt="logo banco pan e gama academy" src="https://github.com/joaomhernandes/DIO_Activities/blob/main/Assets/dioLogo.png" style="width: 300%, height: auto, margin-left: auto, margin-left: auto" />
+<img alt="logo DIO.me" src="https://github.com/joaomhernandes/DIO_Activities/blob/main/Assets/dioLogo.png" style="width: 300%, height: auto, margin-left: auto, margin-left: auto" />
 
 # DIO_Activities
 
