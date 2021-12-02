@@ -1,4 +1,4 @@
-<img alt="logo DIO.me" src="https://github.com/joaomhernandes/DIO_Activities/blob/main/Assets/dioLogo.png" style="width: 100%, height: auto, margin-left: auto, margin-left: auto" />
+<img alt="logo DIO.me" src="https://github.com/joaomhernandes/DIO_Activities/blob/main/Assets/dioLogo.png" style="width: 50%, height: auto, margin-left: auto, margin-left: auto" />
 
 # DIO_Activities
 
@@ -7,9 +7,9 @@ Activities performed in DIO's bootcamps
 
 ## Table of contents
 
-| Activity  | Descriptio  | Realization date |
+| Activity  | Descriptio  | Date |
 |   ---     |     ---     |       ---        |
-|           |             |                  |
+| [coin-converter](https://github.com/joaomhernandes/DIO_Activities/tree/main/Carrefour%20Android%20Developer/coin-converter-master) | Carrefour Android Developer Project | 12/2021 |
 |           |             |                  |
 |           |             |                  |
 |           |             |                  |
