@@ -27,13 +27,13 @@ class MainViewModel(
             getExchangeValueUseCase(coins)
                 .flowOn(Dispatchers.Main)
                 .onStart {
-                    _state.value = State.Loading //Usar para mostrar a nossa dialog de progresso.
+                    _state.value = State.Loading
                 }
                 .catch {
-                    _state.value = State.Error(it) //Usar para mostrar um erro.
+                    _state.value = State.Error(it)
                 }
                 .collect {
-                    _state.value = State.Success(it) //Usar oara mostrar o resultado.
+                    _state.value = State.Success(it)
                 }
         }
     }

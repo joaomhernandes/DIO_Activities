@@ -13,7 +13,6 @@ enum class Coin(val locale: Locale) {
     AUD(Locale("en","AU")),
     CNY(Locale.CHINA),
     ILS(Locale("en","IL"))
-
     ;
 
     companion object {
