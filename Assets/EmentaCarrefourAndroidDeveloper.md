@@ -1,5 +1,5 @@
 | Módulo 								      | Carga horária  | 
-|   ---     								      |      ---       | 
+|   ---     								      |     :---:      | 
 | Boas-vindas ao Bootcamp Carrefour Android Developer 			      |       1h       |
 | Bem-vindo à DIO          						      |       1h       |
 | Lógica de Programação Essencial          				      |       4h       |

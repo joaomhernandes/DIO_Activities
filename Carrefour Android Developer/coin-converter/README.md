@@ -1,4 +1,4 @@
-<img alt="logo DIO.me" src="https://github.com/joaomhernandes/DIO_Activities/blob/main/Assets/carrefourAndroidDeveloperLogo.png" style="width: 100%, height: auto, margin-left: auto, margin-left: auto" />
+<img alt="logo Bootcamp Carrefour Android Developer" src="https://github.com/joaomhernandes/DIO_Activities/blob/main/Assets/carrefourAndroidDeveloperLogo.png" style="width: 30%, height: auto, margin-left: auto, margin-left: auto" />
 
 # Carrefour Android Developer
 
