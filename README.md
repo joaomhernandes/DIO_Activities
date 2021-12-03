@@ -9,7 +9,7 @@ Activities performed in DIO's bootcamps
 
 | Activity  | Descriptio  | Date |
 |   ---     |     ---     |       ---        |
-| [coin-converter](https://github.com/joaomhernandes/DIO_Activities/tree/main/Carrefour%20Android%20Developer/coin-converter-master) | Carrefour Android Developer Project | 12/2021 |
+| [coin-converter](https://github.com/joaomhernandes/DIO_Activities/tree/main/Carrefour%20Android%20Developer/coin-converter) | Carrefour Android Developer Project | 12/2021 |
 |           |             |                  |
 |           |             |                  |
 |           |             |                  |
