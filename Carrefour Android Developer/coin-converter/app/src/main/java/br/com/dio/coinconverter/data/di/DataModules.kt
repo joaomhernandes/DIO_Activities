@@ -17,7 +17,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 
 object DataModules {
 
-    private const val HTTP_TAG = "OhHttp"
+    private const val HTTP_TAG = "OkHttp"
 
     fun load() {
         loadKoinModules(networkModule() + repositoryModule() + databaseModule())
