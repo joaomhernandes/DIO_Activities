@@ -1,4 +1,4 @@
-<img alt="logo DIO.me" src="https://github.com/joaomhernandes/DIO_Activities/blob/main/Assets/dioLogo.png" style="width: auto, height: 30%, margin-left: auto, margin-left: auto" />
+<img alt="logo DIO.me" src="https://github.com/joaomhernandes/DIO_Activities/blob/main/Assets/dioLogo.svg" style="width: auto, height: 30%, margin-left: auto, margin-left: auto" />
 
 # DIO_Activities
 
@@ -9,8 +9,8 @@ Activities performed in DIO's bootcamps
 
 | Activity  | Descriptio  | Date |
 |   ---     |     ---     |       ---        |
-| [coin-converter](https://github.com/joaomhernandes/DIO_Activities/tree/main/Carrefour%20Android%20Developer/coin-converter) | Carrefour Android Developer Project | 12/2021 |
-|           |             |                  |
+| [Coin Converter](https://github.com/joaomhernandes/DIO_Activities/tree/main/Carrefour%20Android%20Developer/coin-converter) | [Carrefour Android Developer](https://github.com/joaomhernandes/DIO_Activities/tree/main/Carrefour%20Android%20Developer) Project | 12/2021 |
+|[Banco Digital](https://github.com/joaomhernandes/DIO_Activities/tree/main/CognizantJavaDeveloper/BancoDigital) | [Amdocs](https://github.com/joaomhernandes/DIO_Activities/tree/main/AmdocsJavaDeveloper)/[Cognizant](https://github.com/joaomhernandes/DIO_Activities/tree/main/CognizantJavaDeveloper) Java Developer Project | 12/2021|
 |           |             |                  |
 |           |             |                  |
 
