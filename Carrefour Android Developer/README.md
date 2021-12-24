@@ -1,4 +1,4 @@
-<img alt="logo Bootcamp Carrefour Android Developer" src="https://github.com/joaomhernandes/DIO_Activities/blob/main/Assets/carrefourAndroidDeveloperLogo.png" style="width: 30%, height: auto, margin-left: auto, margin-left: auto" />
+<img alt="logo Bootcamp Carrefour Android Developer" src="https://github.com/joaomhernandes/DIO_Activities/blob/main/Assets/CarrefourAndroidDeveloper.svg" style="width: 30%, height: auto, margin-left: auto, margin-left: auto" />
 
 # Carrefour Android Developer
 
@@ -9,6 +9,8 @@ Conquiste as melhores oportunidades com o Carrefour como desenvolvedor mobile. P
 ## [Ementa do Bootcamp](https://github.com/joaomhernandes/DIO_Activities/blob/main/Assets/EmentaCarrefourAndroidDeveloper.md)
 
 ## Projeto
+
+### [Coin Converter](https://github.com/joaomhernandes/DIO_Activities/tree/main/Carrefour%20Android%20Developer/coin-converter)
 
 O objetivo deste projeto é criar um App de conversão de moedas/câmbio, passando por todo o processo de desenvolvimento usando o Kotlin, uma das linguagens de programação de maior ascensão nos últimos anos. Para isso, será consumida uma API pública usando as principais bibliotecas e padrões de projeto do Kotlin. Por fim, foi entregue um projeto, incorporando melhorias.
 
