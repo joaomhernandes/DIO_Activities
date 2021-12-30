@@ -25,3 +25,4 @@
 | Trabalhando com Processamento Assíncrono no Android      	  	      |       2h       |
 | Desafios numéricos em Kotlin       				   	      |       1h       |
 | Criando um aplicativo para conversão de moedas e câmbio          	      |       3h       |
+| Total							          	      |       100h     |
