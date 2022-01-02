@@ -8,6 +8,12 @@ O Bootcamp Cognizant Java Developer foi pensado exclusivamente para o seu desenv
 
 ## [Ementa do Bootcamp](https://github.com/joaomhernandes/DIO_Activities/blob/main/Assets/ementaCognizantJavaDeveloper.md)
 
+## Atividades do Bootcamp
+
+### [Spring Boot JWT](https://github.com/joaomhernandes/DIO_Activities/tree/main/CognizantJavaDeveloper/spring-boot-jwt)
+
+Criação de projeto Spring boot utilizando dependencias auth0, security, web e lombok, que realiza a autenticação de usuário através de geração de token JWT.
+
 ## Projetos
 
 ### [Criando um Banco Digital com Java e Orientação a Objetos](https://github.com/joaomhernandes/DIO_Activities/tree/main/CognizantJavaDeveloper/BancoDigital)
