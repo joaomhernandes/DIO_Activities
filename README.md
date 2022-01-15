@@ -7,11 +7,17 @@ Activities performed in DIO's bootcamps
 
 ## Table of contents
 
-| Activity  | Descriptio  | Date |
+| Program  | Descriptio  | Date |
 |   ---     |     ---     |       ---        |
-| [Coin Converter](https://github.com/joaomhernandes/DIO_Activities/tree/main/Carrefour%20Android%20Developer/coin-converter) | [Carrefour Android Developer](https://github.com/joaomhernandes/DIO_Activities/tree/main/Carrefour%20Android%20Developer) Project | 12/2021 |
-|[Banco Digital](https://github.com/joaomhernandes/DIO_Activities/tree/main/CognizantJavaDeveloper/BancoDigital) | [Amdocs](https://github.com/joaomhernandes/DIO_Activities/tree/main/AmdocsJavaDeveloper)/[Cognizant](https://github.com/joaomhernandes/DIO_Activities/tree/main/CognizantJavaDeveloper) Java Developer Project | 12/2021|
-| [To do list](https://github.com/joaomhernandes/DigitalInnovationOne/tree/main/To%20Do%20List) | [Santander](https://github.com/joaomhernandes/DIO_Activities/tree/main/SantanderMobileDeveloper)/[NTT DATA](https://github.com/joaomhernandes/DIO_Activities/tree/main/NTTDataAbdroidDeveloper) Android Developer Project | 07/2021 |
+| [Amdocs Java Developer](https://github.com/joaomhernandes/DIO_Activities/tree/main/AmdocsJavaDeveloper) | Bootcamp | 01/2022 |
+| [Carrefour Android Developer](https://github.com/joaomhernandes/DIO_Activities/tree/main/Carrefour%20Android%20Developer) | Bootcamp | 12/2021|
+| [Cognizant Java Developer](https://github.com/joaomhernandes/DIO_Activities/tree/main/CognizantJavaDeveloper) | Bootcamp | 01/2022 |
+| [GFT Start #3 Java](https://github.com/joaomhernandes/DIO_Activities/tree/main/GFTStart3Java) | Bootcamp | 01/2022 |
+| [Inter Frontend Developer](https://github.com/joaomhernandes/DIO_Activities/tree/main/InterFrontendDeveloper) | Bootcamp | 02/2022 |
+| [NTT Data Android Developer](https://github.com/joaomhernandes/DIO_Activities/tree/main/NTTDataAndroidDeveloper) | Bootcamp | 03/2022 |
+| [Santander Mobile Developer](https://github.com/joaomhernandes/DIO_Activities/tree/main/SantanderMobileDeveloper) | Bootcamp | 09/2021 |
+| [Take Blip Web Developer](https://github.com/joaomhernandes/DIO_Activities/tree/main/TakeBlipWebDeveloper) | Bootcamp | 03/2022 |
+
 
 
 ## Contact
