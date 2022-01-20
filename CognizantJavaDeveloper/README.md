@@ -14,7 +14,7 @@ O Bootcamp Cognizant Java Developer foi pensado exclusivamente para o seu desenv
 
 Criação de projeto Spring boot utilizando dependencias auth0, security, web e lombok, que realiza a autenticação de usuário através de geração de token JWT.
 
-### [Microsserviços em Spring Cloud com Java](https://github.com/joaomhernandes/DIO_Activities/tree/main/CognizantJavaDeveloper/spring-boot-jwt)
+### [Microsserviços em Spring Cloud com Java](https://github.com/joaomhernandes/DIO_Activities/tree/main/CognizantJavaDeveloper/microsservicos-spring-cloud)
 
 Introdução à Arquiteturas de Software: do Monolito ao Microsserviço. Como exemplo, foi criado um microserviço de Catalogo de Produtos, utilizou-se de componentes do Atuator para realizar Heath Check do serviço, Spring Dada Elasticsearch para modelagem e persistencia de dados, Spring Data Redis para microserviço de carrinho de compras, Config Server, Service Discovery e criado um Gateway para fazer a integração dos microserviços e acesso aos mesmos.
 
@@ -24,7 +24,7 @@ Introdução à Arquiteturas de Software: do Monolito ao Microsserviço. Como ex
 
 O Cucumber é uma ferramenta usada para executar testes de aceitação automatizados que foram criados em um formato BDD (Desenvolvimento Orientado por Comportamento). Um de seus recursos mais destacados é a capacidade de realizar descrições funcionais de texto simples (escritas numa linguagem chamada Gherkin) como testes automatizados. Nesta mentoria um expert da Amdocs irá demonstrar na prática como esta ferramenta é utilizada nos projetos da empresa.
 
-### [Mentoria #5: Function as a Service (FaaS) o que é e como utilizá-las](https://github.com/joaomhernandes/DIO_Activities/tree/main/AmdocsJavaDeveloper/UtilizandoCucumberTestesAutomatizados)
+### Mentoria #5: Function as a Service (FaaS) o que é e como utilizá-las
 
 Nesta mentoria, expert explicará os conceitos e formas práticas de utilização.
 

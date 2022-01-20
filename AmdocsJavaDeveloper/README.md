@@ -14,7 +14,7 @@ O Bootcamp Amdocs JAVA Developer foi pensado especialmente para o seu desenvolvi
 
 O Cucumber é uma ferramenta usada para executar testes de aceitação automatizados que foram criados em um formato BDD (Desenvolvimento Orientado por Comportamento). Um de seus recursos mais destacados é a capacidade de realizar descrições funcionais de texto simples (escritas numa linguagem chamada Gherkin) como testes automatizados. Nesta mentoria um expert da Amdocs irá demonstrar na prática como esta ferramenta é utilizada nos projetos da empresa.
 
-### [Mentoria #5: CI / CD - Integração Contínua e Implantação Contínua](https://github.com/joaomhernandes/DIO_Activities/tree/main/AmdocsJavaDeveloper/UtilizandoCucumberTestesAutomatizados)
+### Mentoria #5: CI / CD - Integração Contínua e Implantação Contínua
 
 Em engenharia de software, CI/CD ou CICD pode se referir às práticas combinadas de integração contínua e entrega contínua. Nesta mentoria um expert da Amdocs irá demonstrar como essas práticas são aplicadas nos projetos desenvolvidos pela empresa.
 

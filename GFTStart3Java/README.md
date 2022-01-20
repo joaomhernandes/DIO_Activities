@@ -14,7 +14,7 @@ Já considerou a possibilidade de se tornar ainda mais potente para o mercado, s
 
 Reforce seu conhecimento em Programação Orientada a Objetos (POO) em Java com um desafio de projeto totalmente prático. Para isso, os pilares da orientação a objetos são devidamente explorados no contexto bancário, onde o expert implementa um projeto de referência (disponibilizado no GitHub) de forma prática e interativa. Sendo assim, você poderá desenvolver sua capacidade de abstração reproduzindo essa solução
 
-### [Abstraindo um Bootcamp Usando Orientação a Objetos em Java](https://github.com/joaomhernandes/personapi-manager)
+### [Abstraindo um Bootcamp Usando Orientação a Objetos em Java](https://github.com/joaomhernandes/DIO_Activities/tree/main/GFTStart3Java/desafioDioPoo)
 
 Desmistifique a Programação Orientada a Objetos (POO) com Java e pratique esse conceito fundamental nesse desafio. Para isso, os pilares da OO são devidamente formalizados: Abstração, Encapsulamento, Herança e Polimorfismo. Com isso, você poderá desenvolver sua capacidade de abstração com um problema real e implementar as evoluções que achar interessantes.
 
