@@ -18,7 +18,7 @@ Reforce seu conhecimento em Programação Orientada a Objetos (POO) em Java com 
 
 Desmistifique a Programação Orientada a Objetos (POO) com Java e pratique esse conceito fundamental nesse desafio. Para isso, os pilares da OO são devidamente formalizados: Abstração, Encapsulamento, Herança e Polimorfismo. Com isso, você poderá desenvolver sua capacidade de abstração com um problema real e implementar as evoluções que achar interessantes.
 
-### [Explorando Padrões de Projetos na Prática com Java](https://github.com/joaomhernandes/personapi-manager)
+### [Explorando Padrões de Projetos na Prática com Java](https://github.com/joaomhernandes/DIO_Activities/tree/main/GFTStart3Java/padroesDeProjetoJava)
 
 Agora é a sua hora de brilhar! Crie uma solução que explore o conceito de Padrões de Projeto na prática. Para isso, você pode reproduzir um dos projetos que criamos durante as aulas ou, caso se sinta preparado, desenvolver uma nova ideia do zero.
 
