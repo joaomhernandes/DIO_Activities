@@ -10,7 +10,7 @@ No Bootcamp Inter Frontend Developer você aprenderá sobre React - uma das prin
 
 ## Projetos
 
-### [Recriando a Interface do Netflix](https://github.com/joaomhernandes/DIO_Activities/tree/main/CognizantJavaDeveloper/BancoDigital)
+### [Recriando a Interface do Netflix](https://github.com/joaomhernandes/netflix-clone)
 
 Recrie a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto você aprenderá: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins JQuery a favor da sua aplicação.
 
