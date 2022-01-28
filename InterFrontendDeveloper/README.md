@@ -18,6 +18,37 @@ Recrie a interface do principal site de streaming mundial utilizando tecnologias
 
 Aprenda como integrar um Front-end em React com uma API REST (desenvolvida em Node.js). Para isso, a expert apresenta uma abordagem totalmente prática de desenvolvimento, onde dicas e boas práticas fazem parte do seu percurso. Como desafio, reproduza ou faça um "fork" nos projetos da expert e implemente suas próprias evoluções.
 
+## Atividades
+
+### [Sintaxe Basica em JavaScript](https://github.com/joaomhernandes/DIO_Activities/tree/main/InterFrontendDeveloper/SintaxeBasicaJavaScript)
+
+Exemplos de Sintaxe básica em JavaScript.
+
+### [Sintaxe e Operadores](https://github.com/joaomhernandes/DIO_Activities/tree/main/InterFrontendDeveloper/SintaxeEOperadores)
+
+Foi criado uma função que compara dois numeros e retorna se os números são iguais, sua soma é 15, se a soma é maior ou menor que 10 e se a soma é maior ou menor que 20.
+
+### [Variaveis e Tipos](https://github.com/joaomhernandes/DIO_Activities/tree/main/InterFrontendDeveloper/VariaveisETipos)
+
+Foram criados duas funções, uma testa se uma palavra é palindromo e a outra edita um array de números de duas formas distintas.
+
+### [JavaScript Assincrono](https://github.com/joaomhernandes/DIO_Activities/tree/main/InterFrontendDeveloper/JavaScriptAssincrono)
+
+Consumo da API CatsAPI.
+
+### [Orientação a Objeto](https://github.com/joaomhernandes/DIO_Activities/tree/main/InterFrontendDeveloper/OrientacaoAObjeto)
+
+Exemplo de POO em JavaScript, no exemplo foi abstraido um sistema de contas de banco.
+
+### [Map, Filter e Reduce](https://github.com/joaomhernandes/DIO_Activities/tree/main/InterFrontendDeveloper/MapFilterReduce)
+
+Exemplos de utilização dos metodos Map, Filter e Reduce.
+
+### [Manipulando DOM com JavaScript](https://github.com/joaomhernandes/DIO_Activities/tree/main/InterFrontendDeveloper/ManipulandoDOM)
+
+Script de alteração de perfil, dark mode e light mode.
+
+### [Introdução ReactJS](https://github.com/joaomhernandes/DIO_Activities/tree/main/InterFrontendDeveloper/IntroducaoReactJS)
 
 ## Contact
 
