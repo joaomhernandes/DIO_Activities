@@ -22,6 +22,10 @@ Desmistifique a Programação Orientada a Objetos (POO) com Java e pratique esse
 
 Agora é a sua hora de brilhar! Crie uma solução que explore o conceito de Padrões de Projeto na prática. Para isso, você pode reproduzir um dos projetos que criamos durante as aulas ou, caso se sinta preparado, desenvolver uma nova ideia do zero.
 
+### [Desafio Prático](https://github.com/joaomhernandes/DIO_Activities/tree/main/CognizantJavaDeveloper/DesafioPraticoSelecao)
+
+Etapa de desafio prático do processo seletivo GFT Start #3 Java.
+
 ## Contact
 
 <a href="https://www.linkedin.com/in/joão-maurício-hernandes-carrenho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://github.com/joaomhernandes" target="_blank"><img src="https://img.shields.io/github/followers/joaomhernandes?label=Joaomhernandes&style=for-the-badge" target="_blank"></a> 
