@@ -8,7 +8,7 @@ Já considerou a possibilidade de se tornar ainda mais potente para o mercado, s
 
 ## Processo Seletivo - Desafio Prático.
 
-### [Desafio Prático](https://github.com/joaomhernandes/DIO_Activities/tree/main/CognizantJavaDeveloper/DesafioPraticoSelecao)
+### [Desafio Prático](https://github.com/joaomhernandes/DIO_Activities/tree/main/GFTStart3Java/DesafioPraticoSelecao)
 
 
 ## Contact
