@@ -14,7 +14,7 @@ No Bootcamp Inter Frontend Developer você aprenderá sobre React - uma das prin
 
 Recrie a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto você aprenderá: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins JQuery a favor da sua aplicação.
 
-### Integrando um Backend em Node.js com um Frontend em React para um E-commerce
+### [Integrando um Backend em Node.js com um Frontend em React para um E-commerce](https://github.com/joaomhernandes/dio-shopping)
 
 Aprenda como integrar um Front-end em React com uma API REST (desenvolvida em Node.js). Para isso, a expert apresenta uma abordagem totalmente prática de desenvolvimento, onde dicas e boas práticas fazem parte do seu percurso. Como desafio, reproduza ou faça um "fork" nos projetos da expert e implemente suas próprias evoluções.
 

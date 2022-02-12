@@ -20,7 +20,7 @@ public class Main {
 		System.out.println("O valor do ganho liquido mensal e: "+funcionario.calculaGanhoLiquidoMensal());
 		System.out.println("O valor do ganho liquido anual e: "+funcionario.calculaGanhoLiquidoAnual());
 		
-		funcionario.toString();
+		System.out.println(funcionario);
 
 	}
 
