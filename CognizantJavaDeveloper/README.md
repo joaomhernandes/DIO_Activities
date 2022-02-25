@@ -1,4 +1,4 @@
-<img alt="logo Bootcamp Cognizant Java Developer" src="https://github.com/joaomhernandes/DIO_Activities/blob/main/Assets/CognizantJavaDeveloper.svg" style="width: 100%, height: auto, margin-left: auto, margin-left: auto" />
+<img alt="logo Bootcamp Cognizant Java Developer" src="https://github.com/joaomhernandes/DIO_Activities/blob/main/Assets/CognizantJavaDeveloper.svg" style="width: 100em, height: auto, margin-right: auto, margin-left: auto" />
 
 # Cognizant Java Developer
 
