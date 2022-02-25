@@ -1,4 +1,4 @@
-<img alt="logo Bootcamp Inter Frontend Developer" src="https://github.com/joaomhernandes/DIO_Activities/blob/main/Assets/TakeBlipWebDeveloper.svg" style="width: 100%, height: auto, margin-left: auto, margin-left: auto" />
+<img alt="logo Bootcamp Take Blip Web Developer" src="https://github.com/joaomhernandes/DIO_Activities/blob/main/Assets/TakeBlipWebDeveloper.svg" style="width: 100%, height: auto, margin-left: auto, margin-left: auto" />
 
 # Take Blip Web Developer
 
@@ -14,7 +14,7 @@ Com o Bootcamp Take Blip Web Developer, você aprenderá o melhor de JavaScript 
 
 Recrie a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto você aprenderá: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins JQuery a favor da sua aplicação.
 
-### [Construindo o seu primeiro jogo de naves](https://github.com/joaomhernandes/DIO_Activities/tree/main/CognizantJavaDeveloper/BancoDigital)
+### [Construindo o seu primeiro jogo de naves](https://github.com/joaomhernandes/jogoNaves)
 
 Uma das dificuldades dos desenvolvedores de jogos é encontrar uma plataforma de desenvolvimento compatível com os diversos dispositivos móveis no mercado e também com os diferentes navegadores (browsers). Utilizando o HTML5 juntamente com as folhas de estilo CSS3 e o JavaScript, é possível desenvolver jogos de forma rápida e compatível com diversas plataformas, incluindo dispositivos móveis. No projeto são discutidas as etapas de desenvolvimento de jogos em HTML5, CSS3 e JavaScript do início ao fim, utilizando a didática passo a passo em seu desenvolvimento. Neste projeto, especificamente, os jogos serão publicados de forma que possam ser acessados via browser.
 
